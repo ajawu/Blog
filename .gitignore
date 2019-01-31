@@ -1,4 +1,6 @@
-.sqlite3
-blog/__pycache__/*.pyc
-mysite/__pycache__/*.pyc
-blog/migrations/__pycache__/*.pyc
+db.sqlite3
+*.pyc
+__pycahe__
+.DS_Store
+/static
+
